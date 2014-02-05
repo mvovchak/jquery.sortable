@@ -1,0 +1,45 @@
+.sortable-placeholder {
+	border: 1px dashed #ccc;
+	height: 20px;
+	background-color: #fafafa;
+}
+
+.handle {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 400px;
+}
+
+li {
+	border: 1px solid #ccc;
+	background-color: #fff;
+	padding: 4px;
+	margin-bottom: 4px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table tbody tr {
+	border: 1px solid #ccc;
+}
+
+table tr td {
+	margin: 0;
+	padding: 4px;
+	background: #fafafa;
+}
+
+hr {
+	display: block;
+	border: none;
+	margin: 2em 0;
+	border-bottom: 1px solid #eee;
+}

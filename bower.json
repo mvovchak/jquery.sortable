@@ -1,0 +1,45 @@
+{
+	"name": "jquery.sortable",
+	"version": "1.0.0",
+	"main": [
+		"./jquery.sortable.js",
+		"./style.css"
+	],
+	"ignore": [
+		"**/*.sass",
+		"**/*.coffee",
+		"**/sample.*",
+		"**/rainbow.*",
+		"bourbon",
+		"neat",
+		"packages",
+		"images",
+		"Cakefile",
+		"Gemfile",
+		"Gemfile.*",
+		"index.*",
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"jquery": "latest"
+	},
+	"authors": [
+		"Misha Vovchak <vovchak@gmail.com>"
+	],
+	"description": "Jquery plugin that allows drag and drop like sorting of list elements and tables",
+	"keywords": [
+		"jquery",
+		"sortable",
+		"drag",
+		"drop",
+		"list",
+		"table"
+	],
+	"license": "MIT",
+	"homepage": "vovchak.com"
+}
